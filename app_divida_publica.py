@@ -306,7 +306,6 @@ else:
 
 st.sidebar.title("Sobre o Projeto")
 st.sidebar.info("""
-Este app foi desenvolvido com base no artigo "Uma análise da desigualdade social brasileira à luz do endividamento público" de João Nogueira Thieme.
 
 Os dados (snapshots de 2018-2024) foram coletados manualmente dos seguintes portais oficiais para garantir 100% de estabilidade:
 
@@ -316,4 +315,5 @@ Os dados (snapshots de 2018-2024) foram coletados manualmente dos seguintes port
   `https://www12.senado.leg.br/orcamento/sigabrasil`
 - **Portal da Transparência** (Gastos):
   `https://portaldatransparencia.gov.br`
+
 """)
