@@ -1,0 +1,14 @@
+[
+  {"ano": 2018, "funcao": "Dívida/Encargos", "valor_bi": 1055.0},
+  {"ano": 2018, "funcao": "Previdência", "valor_bi": 585.0},
+  {"ano": 2018, "funcao": "Transferências", "valor_bi": 300.0},
+  {"ano": 2018, "funcao": "Saúde", "valor_bi": 121.0},
+  {"ano": 2018, "funcao": "Educação", "valor_bi": 100.0},
+  {"ano": 2018, "funcao": "Assistência", "valor_bi": 90.0},
+  {"ano": 2024, "funcao": "Dívida/Encargos", "valor_bi": 2600.0},
+  {"ano": 2024, "funcao": "Previdência", "valor_bi": 918.0},
+  {"ano": 2024, "funcao": "Transferências", "valor_bi": 488.0},
+  {"ano": 2024, "funcao": "Saúde", "valor_bi": 202.0},
+  {"ano": 2024, "funcao": "Educação", "valor_bi": 160.0},
+  {"ano": 2024, "funcao": "Assistência", "valor_bi": 267.0}
+]

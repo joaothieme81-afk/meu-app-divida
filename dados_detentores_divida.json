@@ -1,0 +1,37 @@
+[
+  {
+    "credor": "Fundos de Previdência",
+    "porcentagem": 25.5,
+    "descricao": "Entidades de previdência privada (aberta e fechada) e regimes próprios (RPPS)."
+  },
+  {
+    "credor": "Fundos de Investimento",
+    "porcentagem": 24.8,
+    "descricao": "Fundos de renda fixa, multimercado, etc., que compram títulos para seus cotistas."
+  },
+  {
+    "credor": "Instituições Financeiras",
+    "porcentagem": 20.2,
+    "descricao": "Carteira própria de bancos comerciais nacionais e estrangeiros."
+  },
+  {
+    "credor": "Não-Residentes (Estrangeiros)",
+    "porcentagem": 11.0,
+    "descricao": "Investidores e governos estrangeiros que compram títulos da dívida brasileira."
+  },
+  {
+    "credor": "Outros",
+    "porcentagem": 10.7,
+    "descricao": "Inclui Pessoas Físicas (Tesouro Direto) e outras entidades."
+  },
+  {
+    "credor": "Governo",
+    "porcentagem": 4.0,
+    "descricao": "Fundos administrados pelo setor público."
+  },
+  {
+    "credor": "Seguradoras",
+    "porcentagem": 3.8,
+    "descricao": "Reservas técnicas de companhias de seguro."
+  }
+]
